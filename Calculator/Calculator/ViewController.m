@@ -6,6 +6,10 @@
 //  copy form stadford ios lession.
 //  Copyright © 2017年 lugongyu. All rights reserved.
 //
+/*从斯坦福大学IOS教程视频中学习的代码，主题框架和主要代码；
+ 
+ todo：把此项目改造为中缀表达式 转换为后缀表达式，然后计算的代码，即：删除Enter按钮，更换为=按钮，做一个标准的计算器项目
+ */
 
 #import "ViewController.h"
 #import "CalculatorBrain.h"
